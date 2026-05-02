@@ -42,7 +42,7 @@ Whether you're a cybersecurity researcher, student, or blue teamer, HoneyPy give
 ### 📋 HTTP Audit Log
 Captures timestamped login attempts with IP, username, and password.
 
-![HTTP Audit Log](<img width="1152" height="864" alt="WhatsApp Image 2026-05-02 at 5 45 21 PM" src="https://github.com/user-attachments/assets/79c9b333-6696-4289-aee3-c25488fdbf90" />
+![HTTP Audit Log](<img width="1152" height="864" alt="WhatsApp Image 2026-05-02 at 5 45 20 PM" src="https://github.com/user-attachments/assets/997c65a4-4da4-435a-8758-80f9b17e32f9" />
 )
 
 ### 🖥️ SSH Honeypot in Action
