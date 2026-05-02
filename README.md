@@ -42,7 +42,7 @@ Whether you're a cybersecurity researcher, student, or blue teamer, HoneyPy give
 ### 📋 HTTP Audit Log
 Captures timestamped login attempts with IP, username, and password.
 
-![HTTP Audit Log](<img width="1152" height="864" alt="WhatsApp Image 2026-05-02 at 5 45 20 PM" src="https://github.com/user-attachments/assets/a364c1c2-0734-4aa6-9a68-0ff046be753c" />
+![HTTP Audit Log](<img width="1152" height="864" alt="WhatsApp Image 2026-05-02 at 5 45 21 PM" src="https://github.com/user-attachments/assets/79c9b333-6696-4289-aee3-c25488fdbf90" />
 )
 
 ### 🖥️ SSH Honeypot in Action
@@ -55,8 +55,9 @@ SSH server listening and accepting connections, logging all activity.
 ### 🔑 Server Key Generation
 RSA host key used to authenticate the fake SSH server.
 
-![Server Key](<img width="1600" height="1200" alt="WhatsApp Image 2026-05-02 at 5 45 23 PM" src="https://github.com/user-attachments/assets/6227744b-4f25-4036-b4c1-df3b67a4ff9f" />
+![Server Key](<img width="1600" height="1200" alt="WhatsApp Image 2026-05-02 at 5 45 22 PM" src="https://github.com/user-attachments/assets/cf565c8c-0cd2-49e8-b0d4-7ef2f70f261a" />
 )
+<img width="1600" height="1200" alt="WhatsApp Image 2026-05-02 at 5 45 23 PM" src="https://github.com/user-attachments/assets/db453a37-1401-47e9-b4b2-523f7d6e56f1" />
 
 </div>
 
