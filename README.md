@@ -42,17 +42,21 @@ Whether you're a cybersecurity researcher, student, or blue teamer, HoneyPy give
 ### 📋 HTTP Audit Log
 Captures timestamped login attempts with IP, username, and password.
 
-![HTTP Audit Log](screenshots/http_audit_log.png)
+![HTTP Audit Log](<img width="1152" height="864" alt="WhatsApp Image 2026-05-02 at 5 45 20 PM" src="https://github.com/user-attachments/assets/a364c1c2-0734-4aa6-9a68-0ff046be753c" />
+)
 
 ### 🖥️ SSH Honeypot in Action
 SSH server listening and accepting connections, logging all activity.
 
-![SSH Honeypot Running](screenshots/ssh_honeypot_running.png)
+![SSH Honeypot Running](<img width="1600" height="1200" alt="WhatsApp Image 2026-05-02 at 5 45 22 PM" src="https://github.com/user-attachments/assets/30dfbeac-2417-4daf-920b-e4f312b1eb97" />
+)(<img width="1599" height="899" alt="WhatsApp Image 2026-05-02 at 5 45 24 PM" src="https://github.com/user-attachments/assets/5fc4373e-395d-4802-8a0b-d12cd89e15d5" />
+)
 
 ### 🔑 Server Key Generation
 RSA host key used to authenticate the fake SSH server.
 
-![Server Key](screenshots/server_key.png)
+![Server Key](<img width="1600" height="1200" alt="WhatsApp Image 2026-05-02 at 5 45 23 PM" src="https://github.com/user-attachments/assets/6227744b-4f25-4036-b4c1-df3b67a4ff9f" />
+)
 
 </div>
 
@@ -87,8 +91,8 @@ ssh_honeypy/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/honeypy.git
-cd honeypy
+(https://github.com/sahil2022rt/Ssh_honeypot.git)
+cd honeypot
 ```
 
 ### 2. Create a Virtual Environment
